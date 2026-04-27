@@ -1,5 +1,4 @@
 # Transaction-Analytics-Dashboard
-Tools :- Power BI &amp; SQL
 •Designed a Power BI dashboard analyzing customer and transaction data of past 6 years across 4+ quarters & trends.
 • Identified key revenue drivers through customer segmentation (age, gender, income, education, job, state) and delivered data
 backed insights with potential to improve revenue visibility by 10–15%.
